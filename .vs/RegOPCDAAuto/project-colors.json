@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96a79f29-dd12-415b-9d1b-95272d28b637": {
+      "ProjectGuid": "96a79f29-dd12-415b-9d1b-95272d28b637",
+      "DisplayName": "RegOPCDAAuto",
+      "ColorIndex": 0
+    },
+    "fc4d76cf-dac6-4705-90bc-e289dce0b30f": {
+      "ProjectGuid": "fc4d76cf-dac6-4705-90bc-e289dce0b30f",
+      "DisplayName": "UnRegOPCDAAuto",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

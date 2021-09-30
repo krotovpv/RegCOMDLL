@@ -1,0 +1,7 @@
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\bin\Release\UnRegOPCDAAuto.exe.config
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\bin\Release\UnRegOPCDAAuto.exe
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\bin\Release\UnRegOPCDAAuto.pdb
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\obj\Release\UnRegOPCDAAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\obj\Release\UnRegOPCDAAuto.csproj.CoreCompileInputs.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\obj\Release\UnRegOPCDAAuto.exe
+C:\Users\MrSet\Desktop\RegOPCDAAuto\UnRegOPCDAAuto\obj\Release\UnRegOPCDAAuto.pdb

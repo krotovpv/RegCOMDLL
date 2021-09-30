@@ -1,0 +1,9 @@
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\bin\Debug\OPCDAAuto.dll
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\bin\Debug\RegOPCDAAuto.exe.config
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\bin\Debug\RegOPCDAAuto.exe
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\bin\Debug\RegOPCDAAuto.pdb
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\obj\Debug\RegOPCDAAuto.csproj.AssemblyReference.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\obj\Debug\RegOPCDAAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\obj\Debug\RegOPCDAAuto.csproj.CoreCompileInputs.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\obj\Debug\RegOPCDAAuto.exe
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegOPCDAAuto\obj\Debug\RegOPCDAAuto.pdb
