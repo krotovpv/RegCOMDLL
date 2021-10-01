@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96a79f29-dd12-415b-9d1b-95272d28b637": {
+      "ProjectGuid": "96a79f29-dd12-415b-9d1b-95272d28b637",
+      "DisplayName": "RegOPCDAAuto",
+      "ColorIndex": 0
+    },
+    "fc4d76cf-dac6-4705-90bc-e289dce0b30f": {
+      "ProjectGuid": "fc4d76cf-dac6-4705-90bc-e289dce0b30f",
+      "DisplayName": "UnRegOPCDAAuto",
+      "ColorIndex": 1
+    },
+    "d966d890-99d0-47aa-a31b-f722306eb0ad": {
+      "ProjectGuid": "d966d890-99d0-47aa-a31b-f722306eb0ad",
+      "DisplayName": "RegCOMDLL",
+      "ColorIndex": 2
+    },
+    "e25e9b90-464d-4847-81bb-563d696f5190": {
+      "ProjectGuid": "e25e9b90-464d-4847-81bb-563d696f5190",
+      "DisplayName": "RegCOMDLL",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

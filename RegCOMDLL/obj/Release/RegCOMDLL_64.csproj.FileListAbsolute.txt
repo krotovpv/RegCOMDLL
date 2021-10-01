@@ -1,0 +1,11 @@
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\bin\Release\RegCOMDLL_64.exe.config
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\bin\Release\RegCOMDLL_64.exe
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\bin\Release\RegCOMDLL_64.pdb
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.csproj.AssemblyReference.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.Form1.resources
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.Properties.Resources.resources
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.csproj.GenerateResource.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.csproj.CoreCompileInputs.cache
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.exe
+C:\Users\MrSet\Desktop\RegOPCDAAuto\RegCOMDLL_64\obj\Release\RegCOMDLL_64.pdb
